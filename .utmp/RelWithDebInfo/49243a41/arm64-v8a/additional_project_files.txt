@@ -1,0 +1,17 @@
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/GAToUnityCallbacks.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroEnd.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroHeaderBegin.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroSourceBegin.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAApplication.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAConfiguration.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGADebug.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAEvents.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAInput.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGASoftKeyboard.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGASoftKeyboardCallbacks.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGATypes.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAVersion.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGACallbacks.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAConfigurationCallbacks.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAKeyEventCallbacks.h
+/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAMotionEventCallbacks.h
