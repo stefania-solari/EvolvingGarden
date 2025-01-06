@@ -66,6 +66,7 @@ namespace XRMultiplayer
             foreach (GameObject g in objectsToEnableOffline)
             {
                 if (g == null) continue;
+                
                 g.SetActive(!online);
             }
         }
