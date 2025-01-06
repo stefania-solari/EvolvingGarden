@@ -106,8 +106,8 @@ Material:
     - _DstBlend: 10
     - _DstBlendAlpha: 10
     - _EnvironmentReflections: 1
-    - _FadeOffset: -1
-    - _FadePower: 1
+    - _FadeOffset: 0
+    - _FadePower: 0.063
     - _FlipbookBlending: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 0
@@ -135,7 +135,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 0
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 0.30588236}
     - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
     - _Color: {r: 0.5137253, g: 0.8439909, b: 1, a: 0.12941177}

@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_ColorExample 4
-  m_Shader: {fileID: -6465566751694194690, guid: 8c8e18dd53b3c4508ac9c51b31014291,
+  m_Name: Shader Graphs_SG_Snowflake
+  m_Shader: {fileID: -6465566751694194690, guid: e9369aa13816a5e458e6d7ec2f18c8d3,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -39,13 +39,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - Vector1_10db9f9239114d1abe13d36512346eb4: 0.1
+    - Vector1_2b3ebc7d2cfa430cbe2072742c85169a: 0.1
+    - Vector1_39629781d7204ee4861b61dea3b4505e: 3
+    - Vector1_cd0927b091674a2b99a40f87f5b9ae51: 6
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors:
-    - _Base_Color: {r: 0.07489321, g: 0.16065474, b: 0.4811321, a: 0}
+    m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &2231631431220254938
+--- !u!114 &3511908590301510197
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
