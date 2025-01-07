@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afbe7791c09116649a660c52e130ac7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247331
+  packageName: Underwater World
+  packageVersion: 1.2.1
+  assetPath: Assets/Underwater/Assets/Materials/M_Seabed_0030.mat
+  uploadId: 680172
