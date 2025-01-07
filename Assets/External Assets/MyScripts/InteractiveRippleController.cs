@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class InteractiveRippleController : MonoBehaviour
 {
-    private Material material;
+    /*private Material material;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -37,5 +37,6 @@ public class InteractiveRippleController : MonoBehaviour
     {   
         material.SetVector("_RippleCenter", center);
         material.SetFloat("_RippleStartTime", Time.time);
-    }
+    }*/
+
 }

@@ -38,16 +38,18 @@ Material:
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 3000
   stringTagMap:
-    RenderType: Opaque
+    RenderType: Transparent
   disabledShaderPasses:
   - MOTIONVECTORS
+  - DepthOnly
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -131,7 +133,7 @@ Material:
     - _BUILTIN_ZTest: 4
     - _BUILTIN_ZWrite: 1
     - _BUILTIN_ZWriteControl: 0
-    - _Blend: 0
+    - _Blend: 2
     - _BlendModePreserveSpecular: 0
     - _BumpScale: 0.2
     - _CastShadows: 1
@@ -141,7 +143,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _DstBlend: 0
+    - _DstBlend: 1
     - _EdgeHighlightFalloff: 1.5
     - _EnvironmentReflections: 1
     - _GlossMapScale: 1
@@ -159,21 +161,21 @@ Material:
     - _Smoothness: 0.91
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _SrcBlend: 1
-    - _Surface: 0
+    - _SrcBlend: 5
+    - _Surface: 1
     - _UVSec: 0
     - _WorkflowMode: 1
     - _ZTest: 4
-    - _ZWrite: 1
+    - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _BaseColor: {r: 0.47000003, g: 0.735, b: 1, a: 1}
+    - _BaseColor: {r: 0.27358484, g: 0.27358484, b: 0.27358484, a: 0.44705883}
     - _Color: {r: 0.46999997, g: 0.735, b: 1, a: 1}
     - _EdgeHighlightColor: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _NormalOffset: {r: 0, g: 0, b: 0, a: 0}
     - _NormalTiling: {r: 1, g: 1, b: 0, a: 0}
-    - _RimColor: {r: 1, g: 1, b: 1, a: 0}
+    - _RimColor: {r: 0.7930851, g: 0.7877358, b: 1, a: 0.28627452}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

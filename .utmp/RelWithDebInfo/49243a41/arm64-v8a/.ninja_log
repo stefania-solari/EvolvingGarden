@@ -1,10 +1,10 @@
 # ninja log v5
-1	1400	1736041933254252305	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a2d9fb29dc73d104
-1	1541	1736041933395060147	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f458cbb8ca109b32
-2	1562	1736041933416298282	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	73bbc12958df0d2
-0	1591	1736041933446054155	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5bb86cc4adfee5f2
-2	1748	1736041933601556328	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f319c4e5caa612a7
-0	1835	1736041933688723305	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ef7426b941afcbbb
-1	2076	1736041933927386338	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	35d0e6de00f0ecab
-0	2173	1736041934025448031	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1f5c75b2c9e3dd5f
-2173	2367	1736041934218216015	/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/49243a41/obj/arm64-v8a/libgame.so	19c001fe68d434bd
+2	1297	1736213445244251750	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a2d9fb29dc73d104
+1	1419	1736213445370566489	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f458cbb8ca109b32
+2	1429	1736213445378786930	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	73bbc12958df0d2
+1	1473	1736213445426475582	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5bb86cc4adfee5f2
+3	1620	1736213445573507861	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f319c4e5caa612a7
+1	1729	1736213445681952387	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ef7426b941afcbbb
+2	1843	1736213445790451912	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	35d0e6de00f0ecab
+0	1916	1736213445866570797	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1f5c75b2c9e3dd5f
+1916	2091	1736213446043068224	/Users/stefaniasolari/Documents/GitHub/EvolvingGarden_v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/49243a41/obj/arm64-v8a/libgame.so	19c001fe68d434bd

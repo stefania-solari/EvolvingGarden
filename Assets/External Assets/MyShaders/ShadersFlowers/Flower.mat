@@ -28,9 +28,9 @@ Material:
     m_Ints: []
     m_Floats:
     - Vector1_10db9f9239114d1abe13d36512346eb4: 0.1
-    - Vector1_2b3ebc7d2cfa430cbe2072742c85169a: 0.9
+    - Vector1_2b3ebc7d2cfa430cbe2072742c85169a: 0
     - Vector1_39629781d7204ee4861b61dea3b4505e: 5
-    - Vector1_cd0927b091674a2b99a40f87f5b9ae51: 6
+    - Vector1_cd0927b091674a2b99a40f87f5b9ae51: 7
     - _QueueOffset: -10
     m_Colors: []
   m_BuildTextureStacks: []
